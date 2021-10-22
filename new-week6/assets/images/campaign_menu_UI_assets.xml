@@ -2,9 +2,10 @@
 <TextureAtlas imagePath="campaign_menu_UI_assets.png">
 	<!-- Created with Adobe Animate version 20.0.0.17400 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="EASY0000" x="0" y="0" width="196" height="65"/>
-	<SubTexture name="HARD0000" x="206" y="0" width="211" height="67"/>
-	<SubTexture name="NORMAL0000" x="427" y="0" width="308" height="67"/>
+	<SubTexture name="EASY0000" x="2" y="3" width="160" height="58"/>
+	<SubTexture name="HARD0000" x="3" y="129" width="221" height="103" frameX="+20" frameY="0" frameWidth="221" frameHeight="103"/>
+	<SubTexture name="NORMAL0000" x="3" y="63" width="256" height="62" frameX="-6" frameY="0" frameWidth="256" frameHeight="62"/>
+	<SubTexture name="???0000" x="4" y="238" width="308" height="152"/>
 	<SubTexture name="WEEK1 select0000" x="0" y="77" width="360" height="89"/>
 	<SubTexture name="WEEK1 select0001" x="370" y="77" width="360" height="89"/>
 	<SubTexture name="Week 3 press0000" x="0" y="176" width="358" height="89"/>
